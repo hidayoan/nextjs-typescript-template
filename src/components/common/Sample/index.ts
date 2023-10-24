@@ -1,0 +1,1 @@
+export { default as SampleCommonComponent } from './SampleCommonComponent'

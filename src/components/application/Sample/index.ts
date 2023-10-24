@@ -1,0 +1,1 @@
+export { default as SampleApplicationComponent } from './SampleApplicationComponent'

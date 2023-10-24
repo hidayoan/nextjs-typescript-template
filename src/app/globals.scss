@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap");
+@import "@/css/_varibles.scss";
+
+body {
+    font-family: "Quicksand";
+    font-size: 16px;
+    font-style: normal;
+    color: var(--d-1, #572613);
+    margin: 0;
+}
+* {
+    box-sizing: border-box;
+}
+.header-view {
+    background: $background-header;
+    border-bottom: 5px solid $border-color;
+}
+.content-view {
+    flex-grow: 1;
+}
